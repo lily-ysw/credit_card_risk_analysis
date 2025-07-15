@@ -1,0 +1,37 @@
+{
+  "total_credit_card_listings": 681,
+  "categories": [
+    "Cards and CVV",
+    "Carding",
+    "SSN",
+    "Dump",
+    "Drop Bank",
+    "Physical Drop"
+  ],
+  "risk_distribution": {
+    "Critical": 638,
+    "High": 43
+  },
+  "train_samples": 544,
+  "test_samples": 137,
+  "train_risk_distribution": {
+    "Critical": 510,
+    "High": 34
+  },
+  "test_risk_distribution": {
+    "Critical": 128,
+    "High": 9
+  },
+  "price_statistics": {
+    "mean": 83.05535976505139,
+    "median": 7.7,
+    "min": 7.7,
+    "max": 8951.82
+  },
+  "feature_statistics": {
+    "has_cvv": 136,
+    "has_pin": 75,
+    "has_fullz": 204,
+    "has_dumps": 51
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cvv": "Card verification value",
+  "fullz": "Complete identity package with SSN, DOB, address",
+  "dumps": "Magnetic stripe data from physical cards",
+  "ssn": "Social Security Number",
+  "cloned": "Duplicated physical cards",
+  "carding": "Credit card fraud operations",
+  "skimming": "Card skimming devices",
+  "pin": "Personal identification number",
+  "track1": "Track 1 magnetic stripe data",
+  "track2": "Track 2 magnetic stripe data"
+} 

@@ -1,0 +1,178 @@
+{
+  "cards": [
+    {
+      "name": "Prepaid Visa Classic",
+      "image": "assets/img/visa_classic-min.png",
+      "balance": "Between $2500 and $2800",
+      "withdrawal_limit": "$300/Day"
+    },
+    {
+      "name": "Prepaid Visa Gold",
+      "image": "assets/img/visa_gold-min.PNG",
+      "balance": "Between $3500 and $5000",
+      "withdrawal_limit": "$500/Day"
+    },
+    {
+      "name": "Prepaid Visa Platinum",
+      "image": "assets/img/visa_platinum-min.PNG",
+      "balance": "Between $15000 and $25000",
+      "withdrawal_limit": "$800/Day"
+    },
+    {
+      "name": "Prepaid Visa InfiniteNew",
+      "image": "assets/img/visa_infinite-min.PNG",
+      "balance": "Between $50000 and $100000",
+      "withdrawal_limit": "$3000/Day"
+    },
+    {
+      "name": "AmEx Business Blue",
+      "image": "assets/img/amex_pref-min.png",
+      "balance": "Between $20000 and $23000",
+      "withdrawal_limit": "$1000/Day"
+    },
+    {
+      "name": "AmEx Business Gold",
+      "image": "assets/img/amex_gold-min.png",
+      "balance": "Between $75000 and $85000",
+      "withdrawal_limit": "$2500/Day"
+    },
+    {
+      "name": "AmEx Business Platinum",
+      "image": "assets/img/platiamex_num-min.png",
+      "balance": "Between $100000 and $130000",
+      "withdrawal_limit": "$5000/Day"
+    }
+  ],
+  "pricing": [
+    {
+      "card_type": "Prepaid Visa Classic",
+      "prices": [
+        "$95.00",
+        "$180.00",
+        "$255.00",
+        "$380.00",
+        "$545.00",
+        "$665.00",
+        "$925.00",
+        "$1140.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "Prepaid Visa Gold",
+      "prices": [
+        "$210.00",
+        "$400.00",
+        "$565.00",
+        "$840.00",
+        "$1100.00",
+        "$1470.00",
+        "$2045.00",
+        "$2520.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "Prepaid Visa Platinum",
+      "prices": [
+        "$345.00",
+        "$655.00",
+        "$930.00",
+        "$1380.00",
+        "$1810.00",
+        "$2415.00",
+        "$3360.00",
+        "$4140.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "Prepaid Visa Infinite",
+      "prices": [
+        "$430.00",
+        "$815,00",
+        "$1160,00",
+        "$1720.00",
+        "$2255.00",
+        "$3010.00",
+        "$4190.00",
+        "$5160.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "AmEx Business Blue",
+      "prices": [
+        "$315.00",
+        "$595.00",
+        "$850.00",
+        "$1260.00",
+        "$1650.00",
+        "$2200,00",
+        "$3070.00",
+        "$3780.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "AmEx Business Gold",
+      "prices": [
+        "$490.00",
+        "$930.00",
+        "$1320.00",
+        "$1960.00",
+        "$2570.00",
+        "$3430.00",
+        "$4770.00",
+        "$5880.00",
+        "Just Ask"
+      ]
+    },
+    {
+      "card_type": "AmEx Business Platinum",
+      "prices": [
+        "$570.00",
+        "$1080.00",
+        "$1535.00",
+        "$2280.00",
+        "$2990.00",
+        "$3980.00",
+        "$5550.00",
+        "$6840.00",
+        "Just Ask"
+      ]
+    }
+  ],
+  "shipping": [
+    {
+      "region": "North America",
+      "normal_shipping": "3-5 Days",
+      "express_shipping": "1-3 Days"
+    },
+    {
+      "region": "South/Latin America",
+      "normal_shipping": "5-10 Days",
+      "express_shipping": "2-7 Days"
+    },
+    {
+      "region": "Europe",
+      "normal_shipping": "8-12 Days",
+      "express_shipping": "3-8 Days"
+    },
+    {
+      "region": "Africa",
+      "normal_shipping": "14-21 Days",
+      "express_shipping": "10-14 Days"
+    },
+    {
+      "region": "Asia",
+      "normal_shipping": "21-27 Days",
+      "express_shipping": "12-15 Days"
+    },
+    {
+      "region": "Other...",
+      "normal_shipping": "21-36 Days",
+      "express_shipping": "14-21 Days"
+    }
+  ]
+}

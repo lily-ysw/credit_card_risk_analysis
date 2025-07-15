@@ -1,0 +1,12 @@
+{
+  "login": "Login credential data",
+  "email": "Email address data",
+  "password": "Account password data",
+  "username": "Account username data",
+  "address": "Physical address data",
+  "phone": "Phone number data",
+  "social": "Social media account data",
+  "facebook": "Facebook account data",
+  "twitter": "Twitter account data",
+  "gmail": "Gmail account data"
+} 

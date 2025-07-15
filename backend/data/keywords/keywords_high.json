@@ -1,0 +1,12 @@
+{
+  "hack": "Unauthorized access",
+  "phishing": "Phishing schemes",
+  "malware": "Malicious software",
+  "ransomware": "Ransomware attacks",
+  "spoof": "Spoofing attacks",
+  "bypass": "Security bypass",
+  "crack": "Password cracking",
+  "inject": "SQL injection",
+  "dumpster": "Dumpster diving for data",
+  "stolen": "Stolen data or credentials"
+} 

@@ -1,0 +1,831 @@
+{
+  "imperialk": {
+    "car": {
+      "count": 18,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "cards": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Multiple card data"
+    },
+    "paypal": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "PayPal accounts"
+    },
+    "visa": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "mastercard": {
+      "count": 3,
+      "risk_level": "high",
+      "description": "Mastercard"
+    },
+    "balance": {
+      "count": 9,
+      "risk_level": "high",
+      "description": "Account balance"
+    },
+    "transfer": {
+      "count": 8,
+      "risk_level": "high",
+      "description": "Money transfer"
+    },
+    "prepaid": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Prepaid cards"
+    },
+    "gift": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Gift cards"
+    },
+    "amazon": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Amazon accounts"
+    },
+    "western": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Western Union"
+    },
+    "visaprepaid": {
+      "count": 3,
+      "risk_level": "high",
+      "description": "Visa prepaid cards"
+    },
+    "card": {
+      "count": 18,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "jpg": {
+      "count": 3,
+      "risk_level": "low",
+      "description": "Image format"
+    },
+    "gif": {
+      "count": 3,
+      "risk_level": "low",
+      "description": "Image format"
+    },
+    "total": {
+      "count": 9,
+      "risk_level": "low",
+      "description": "Total amount"
+    }
+  },
+  "sharksp": {
+    "pin": {
+      "count": 71,
+      "risk_level": "critical",
+      "description": "Personal identification number"
+    },
+    "login": {
+      "count": 58,
+      "risk_level": "critical",
+      "description": "Login credential data"
+    },
+    "car": {
+      "count": 101,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "paypal": {
+      "count": 29,
+      "risk_level": "high",
+      "description": "PayPal accounts"
+    },
+    "visa": {
+      "count": 41,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "mastercard": {
+      "count": 30,
+      "risk_level": "high",
+      "description": "Mastercard"
+    },
+    "btc": {
+      "count": 100,
+      "risk_level": "high",
+      "description": "Bitcoin cryptocurrency"
+    },
+    "card": {
+      "count": 101,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "data": {
+      "count": 29,
+      "risk_level": "low",
+      "description": "Data files"
+    },
+    "com": {
+      "count": 6,
+      "risk_level": "low",
+      "description": "Commercial domain"
+    },
+    "net": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Network domain"
+    }
+  },
+  "cardht": {
+    "fullz": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Complete identity package with SSN, DOB, address"
+    },
+    "cloned": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Duplicated physical cards"
+    },
+    "pin": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Personal identification number"
+    },
+    "gold": {
+      "count": 24,
+      "risk_level": "critical",
+      "description": "Gold card data"
+    },
+    "car": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "visa": {
+      "count": 18,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "balance": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "Account balance"
+    },
+    "usd": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "US Dollar transactions"
+    },
+    "shipping": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "Shipping services"
+    },
+    "usa": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "US region"
+    },
+    "balanced": {
+      "count": 24,
+      "risk_level": "high",
+      "description": "Balanced accounts"
+    },
+    "rated": {
+      "count": 24,
+      "risk_level": "high",
+      "description": "Rated quality"
+    },
+    "fedex": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "FedEx shipping"
+    },
+    "onion": {
+      "count": 24,
+      "risk_level": "high",
+      "description": "Onion network"
+    },
+    "card": {
+      "count": 12,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "content": {
+      "count": 12,
+      "risk_level": "low",
+      "description": "Content files"
+    },
+    "uploads": {
+      "count": 12,
+      "risk_level": "low",
+      "description": "File uploads"
+    },
+    "webp": {
+      "count": 12,
+      "risk_level": "low",
+      "description": "Image format"
+    },
+    "http": {
+      "count": 12,
+      "risk_level": "low",
+      "description": "HTTP protocol"
+    },
+    "day": {
+      "count": 6,
+      "risk_level": "low",
+      "description": "Time period"
+    }
+  },
+  "bitcards": {
+    "gold": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Gold card data"
+    },
+    "platinum": {
+      "count": 10,
+      "risk_level": "critical",
+      "description": "Platinum card data"
+    },
+    "infinite": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Infinite card data"
+    },
+    "classic": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "Classic card data"
+    },
+    "business": {
+      "count": 18,
+      "risk_level": "critical",
+      "description": "Business card data"
+    },
+    "asia": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Asian region"
+    },
+    "latin": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Latin America"
+    },
+    "europe": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "European region"
+    },
+    "africa": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "African region"
+    },
+    "america": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "American region"
+    },
+    "north": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "North America"
+    },
+    "south": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "South America"
+    },
+    "visa": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "amex": {
+      "count": 9,
+      "risk_level": "high",
+      "description": "American Express"
+    },
+    "prepaid": {
+      "count": 16,
+      "risk_level": "high",
+      "description": "Prepaid cards"
+    },
+    "euro": {
+      "count": 1,
+      "risk_level": "high",
+      "description": "Euro transactions"
+    },
+    "infinitenew": {
+      "count": 1,
+      "risk_level": "high",
+      "description": "Infinite new cards"
+    },
+    "png": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Image format"
+    },
+    "img": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Image files"
+    },
+    "blue": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Color references"
+    },
+    "min": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Minimum amount"
+    },
+    "ask": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Asking price"
+    },
+    "assets": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Digital assets"
+    },
+    "day": {
+      "count": 19,
+      "risk_level": "low",
+      "description": "Time period"
+    },
+    "days": {
+      "count": 12,
+      "risk_level": "low",
+      "description": "Time period"
+    }
+  },
+  "55niks": {
+    "verified": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Verified card data"
+    },
+    "account": {
+      "count": 40,
+      "risk_level": "critical",
+      "description": "Account number data"
+    },
+    "car": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "paypal": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "PayPal accounts"
+    },
+    "visa": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "balance": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Account balance"
+    },
+    "accounts": {
+      "count": 16,
+      "risk_level": "high",
+      "description": "Banking accounts"
+    },
+    "crypto": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Cryptocurrency"
+    },
+    "exchange": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Cryptocurrency exchange"
+    },
+    "ebay": {
+      "count": 8,
+      "risk_level": "high",
+      "description": "eBay accounts"
+    },
+    "usd": {
+      "count": 10,
+      "risk_level": "high",
+      "description": "US Dollar transactions"
+    },
+    "seller": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Product seller"
+    },
+    "feedback": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "User feedback"
+    },
+    "basic": {
+      "count": 3,
+      "risk_level": "high",
+      "description": "Basic cards"
+    },
+    "card": {
+      "count": 2,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "bank": {
+      "count": 8,
+      "risk_level": "medium",
+      "description": "Banking information"
+    },
+    "random": {
+      "count": 1,
+      "risk_level": "low",
+      "description": "Random selection"
+    },
+    "verfied": {
+      "count": 1,
+      "risk_level": "low",
+      "description": "Verified accounts"
+    }
+  },
+  "s57divis": {
+    "cvv": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Card verification value"
+    },
+    "bin": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Bank identification number"
+    },
+    "verified": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Verified card data"
+    },
+    "car": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "cards": {
+      "count": 8,
+      "risk_level": "critical",
+      "description": "Multiple card data"
+    },
+    "worldwide": {
+      "count": 8,
+      "risk_level": "critical",
+      "description": "Worldwide shipping"
+    },
+    "asia": {
+      "count": 8,
+      "risk_level": "critical",
+      "description": "Asian region"
+    },
+    "country": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Country-specific data"
+    },
+    "visa": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "balance": {
+      "count": 12,
+      "risk_level": "high",
+      "description": "Account balance"
+    },
+    "credit": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Credit information"
+    },
+    "usd": {
+      "count": 20,
+      "risk_level": "high",
+      "description": "US Dollar transactions"
+    },
+    "usa": {
+      "count": 16,
+      "risk_level": "high",
+      "description": "US region"
+    },
+    "card": {
+      "count": 12,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "bank": {
+      "count": 2,
+      "risk_level": "medium",
+      "description": "Banking information"
+    },
+    "non": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Non-specific"
+    },
+    "choose": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Selection option"
+    },
+    "known": {
+      "count": 8,
+      "risk_level": "low",
+      "description": "Known source"
+    },
+    "random": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Random selection"
+    }
+  },
+  "hssza6r6": {
+    "cloned": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Duplicated physical cards"
+    },
+    "dungeon": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Dark web references"
+    },
+    "cartel": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Cartel-related activities"
+    },
+    "plastic": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Physical card data"
+    },
+    "bin": {
+      "count": 10,
+      "risk_level": "critical",
+      "description": "Bank identification number"
+    },
+    "exp": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Card expiration"
+    },
+    "gold": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Gold card data"
+    },
+    "platinum": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Platinum card data"
+    },
+    "classic": {
+      "count": 8,
+      "risk_level": "critical",
+      "description": "Classic card data"
+    },
+    "car": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Car rental account data"
+    },
+    "gbp": {
+      "count": 6,
+      "risk_level": "critical",
+      "description": "British Pound transactions"
+    },
+    "eurozone": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Eurozone transactions"
+    },
+    "mixed": {
+      "count": 12,
+      "risk_level": "critical",
+      "description": "Mixed payment methods"
+    },
+    "latin": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Latin America"
+    },
+    "america": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "American region"
+    },
+    "source": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Data source information"
+    },
+    "lender": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Money lender data"
+    },
+    "value": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Card value information"
+    },
+    "american": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "American card data"
+    },
+    "express": {
+      "count": 4,
+      "risk_level": "critical",
+      "description": "Express card data"
+    },
+    "judge": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Judgment-related data"
+    },
+    "mundus": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Mundus references"
+    },
+    "orangganteng": {
+      "count": 2,
+      "risk_level": "critical",
+      "description": "Specific references"
+    },
+    "paypal": {
+      "count": 10,
+      "risk_level": "high",
+      "description": "PayPal accounts"
+    },
+    "visa": {
+      "count": 8,
+      "risk_level": "high",
+      "description": "Visa cards"
+    },
+    "mastercard": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Mastercard"
+    },
+    "amex": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "American Express"
+    },
+    "balance": {
+      "count": 5,
+      "risk_level": "high",
+      "description": "Account balance"
+    },
+    "transfer": {
+      "count": 20,
+      "risk_level": "high",
+      "description": "Money transfer"
+    },
+    "prepaid": {
+      "count": 24,
+      "risk_level": "high",
+      "description": "Prepaid cards"
+    },
+    "gift": {
+      "count": 8,
+      "risk_level": "high",
+      "description": "Gift cards"
+    },
+    "amazon": {
+      "count": 8,
+      "risk_level": "high",
+      "description": "Amazon accounts"
+    },
+    "neteller": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Neteller accounts"
+    },
+    "skrill": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Skrill accounts"
+    },
+    "western": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Western Union"
+    },
+    "usd": {
+      "count": 18,
+      "risk_level": "high",
+      "description": "US Dollar transactions"
+    },
+    "euro": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Euro transactions"
+    },
+    "currency": {
+      "count": 4,
+      "risk_level": "high",
+      "description": "Foreign currency"
+    },
+    "bills": {
+      "count": 6,
+      "risk_level": "high",
+      "description": "Utility bills"
+    },
+    "unionpay": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "UnionPay cards"
+    },
+    "binary": {
+      "count": 10,
+      "risk_level": "high",
+      "description": "Binary options"
+    },
+    "onion": {
+      "count": 56,
+      "risk_level": "high",
+      "description": "Onion network"
+    },
+    "paper": {
+      "count": 2,
+      "risk_level": "high",
+      "description": "Paper documents"
+    },
+    "card": {
+      "count": 10,
+      "risk_level": "medium",
+      "description": "Credit/debit cards"
+    },
+    "product": {
+      "count": 28,
+      "risk_level": "low",
+      "description": "Product information"
+    },
+    "gif": {
+      "count": 4,
+      "risk_level": "low",
+      "description": "Image format"
+    },
+    "pro": {
+      "count": 28,
+      "risk_level": "low",
+      "description": "Professional service"
+    },
+    "http": {
+      "count": 28,
+      "risk_level": "low",
+      "description": "HTTP protocol"
+    },
+    "greens": {
+      "count": 5,
+      "risk_level": "low",
+      "description": "Color references"
+    },
+    "net": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Network domain"
+    },
+    "dred": {
+      "count": 3,
+      "risk_level": "low",
+      "description": "Color references"
+    },
+    "closed": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Closed accounts"
+    },
+    "guy": {
+      "count": 2,
+      "risk_level": "low",
+      "description": "Person reference"
+    },
+    "superior": {
+      "count": 7,
+      "risk_level": "low",
+      "description": "Quality level"
+    }
+  }
+}

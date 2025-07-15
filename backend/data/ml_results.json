@@ -1,0 +1,45 @@
+{
+  "model_performance": {
+    "accuracy": 0.9106666666666666,
+    "classification_report": "              precision    recall  f1-score   support\n\n         Low       0.87      0.99      0.93       395\n      Medium       0.96      0.78      0.86       205\n        High       0.98      0.89      0.93       150\n\n    accuracy                           0.91       750\n   macro avg       0.94      0.89      0.91       750\nweighted avg       0.92      0.91      0.91       750\n",
+    "confusion_matrix": [
+      [
+        390,
+        3,
+        2
+      ],
+      [
+        45,
+        159,
+        1
+      ],
+      [
+        13,
+        3,
+        134
+      ]
+    ]
+  },
+  "feature_importance": {
+    "shipping": 0.06246640895421256,
+    "cvv": 0.05053482830359916,
+    "fullz": 0.025226027654894435,
+    "paypal": 0.02437155883710366,
+    "cc": 0.02298657628167008,
+    "card": 0.022668315814563234,
+    "cashout": 0.02257960149088591,
+    "cards": 0.021326376619972665,
+    "days": 0.018073203812466517,
+    "bank": 0.017206861956147696
+  },
+  "data_summary": {
+    "total_samples": 3746,
+    "training_samples": 2996,
+    "test_samples": 750,
+    "risk_distribution": {
+      "Medium": 1023,
+      "Low": 1974,
+      "High": 749
+    }
+  }
+}

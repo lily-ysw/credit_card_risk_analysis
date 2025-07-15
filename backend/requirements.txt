@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+flask
+flask_cors
+selenium
+beautifulsoup4
+matplotlib
+seaborn
+webdriver-manager
+reportlab
+zipstream 

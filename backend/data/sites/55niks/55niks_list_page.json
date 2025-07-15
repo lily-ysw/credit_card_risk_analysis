@@ -1,0 +1,52 @@
+[
+  {
+    "category": "Paypal Accounts",
+    "name": "10x accounts with $250-500 balance",
+    "price": "150 USD = 0.00136 ฿"
+  },
+  {
+    "category": "Paypal Accounts",
+    "name": "25x accounts with $50-200 balance",
+    "price": "140 USD = 0.00127 ฿"
+  },
+  {
+    "category": "Paypal Accounts",
+    "name": "10x accounts with $1000-5000 balance",
+    "price": "450 USD = 0.00408 ฿"
+  },
+  {
+    "category": "Paypal Accounts",
+    "name": "5x accounts with $5000-25000 balance",
+    "price": "590 USD = 0.00535 ฿"
+  },
+  {
+    "category": "Ebay Accounts",
+    "name": "20x random ebay accounts",
+    "price": "100 USD = 0.00091 ฿"
+  },
+  {
+    "category": "Ebay Accounts",
+    "name": "10x Ebay seller accounts with 100+ feedback",
+    "price": "150 USD = 0.00136 ฿"
+  },
+  {
+    "category": "Bank Accounts",
+    "name": "Bank account basic",
+    "price": "100 USD = 0.00091 ฿"
+  },
+  {
+    "category": "Bank Accounts",
+    "name": "Bank account with verified crypto exchange account",
+    "price": "250 USD = 0.00227 ฿"
+  },
+  {
+    "category": "Bank Accounts",
+    "name": "Bank account with VISA card",
+    "price": "390 USD = 0.00354 ฿"
+  },
+  {
+    "category": "Bank Accounts",
+    "name": "Bank account with VISA card + verfied crypto exchange account",
+    "price": "550 USD = 0.00499 ฿"
+  }
+]

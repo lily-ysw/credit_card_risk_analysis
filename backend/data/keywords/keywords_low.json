@@ -1,0 +1,12 @@
+{
+  "country": "Country-specific data",
+  "value": "Card value information",
+  "premium": "Premium card data",
+  "gold": "Gold card data",
+  "classic": "Classic card data",
+  "business": "Business card data",
+  "checking": "Checking account data",
+  "savings": "Savings account data",
+  "routing": "Routing number data",
+  "worldwide": "Worldwide shipping"
+} 
